@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaximNguen
 - 👀 I’m interested in programming anything
-- 🌱 I’m currently learning Python, Java, Kotlin and C#
+- 🌱 I’m currently learning Python, Java, Kotlin (Planned) and C#
 - 💞️ I’m looking to collaborate on Unity projects (C#), Mobile apps (Kotlin)
 - 📫 How to reach me: email: foditoon1@gmail.com
 
