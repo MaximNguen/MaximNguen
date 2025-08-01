@@ -4,3 +4,4 @@
 - 🌱 На данный момент изучаю - **Django, FastAPI, SQL, Docker**
 
 - 📫 Моя почта - **foditoon1@gmail.com**
+- 📫 Телеграмм - **@MaxLikeVolleyball**
