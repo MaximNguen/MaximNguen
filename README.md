@@ -2,7 +2,7 @@
 <h3 align="center">Backend-Разработчик на Python</h3>
 
 - Мой стек - **Python, HTML, CSS, PostgreSQL, Aiogram, Asyncio, PyTest, Django, Selenium, Docker, Redis, Postman, Jira, Celery, FastAPI, Pydantic, SQLALcmehy**
-- Другие интересы - **Я заинтересован System Analyst, QA/SDET**
-
+- Другие интересы - **Я заинтересован в System Analyst, QA/SDET**
+ 
 - 📫 Моя почта - **foditoon1@gmail.com**
 - 📫 Телеграмм - **@MaxLikeVolleyball**
