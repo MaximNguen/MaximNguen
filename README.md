@@ -8,6 +8,6 @@
 - 📫 Телеграмм - **@MaxLikeVolleyball**
 
 <h1>Опыт</h1>
-- Проектная разработка более 1 года
-- Курс по системному анализу от Promo IT
-- Решения ТЗ от VK, Avito, EffectiveMobile, SimbirSoft
+- Проектная разработка более 1 года</br>
+- Курс по системному анализу от Promo IT</br>
+- Решения ТЗ от VK, Avito, EffectiveMobile, SimbirSoft</br>
