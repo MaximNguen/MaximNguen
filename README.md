@@ -11,3 +11,4 @@
 - Проектная разработка более 1 года</br>
 - Курс по системному анализу от Promo IT</br>
 - Решения ТЗ от VK, Avito, EffectiveMobile, SimbirSoft</br>
+- Оконченный практикум по SDET от SimbirSoft
