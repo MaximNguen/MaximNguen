@@ -8,7 +8,7 @@
 - 📫 Телеграмм - **@MaxLikeVolleyball**
 
 <h1>Опыт</h1>
-- Стажировка QA в Группе компаний Astra
+- Стажировка QA в Группе компаний Astra</br>
 - Проектная разработка более 1 года</br>
 - Курс по системному анализу от Promo IT</br>
 - Решения ТЗ от VK, Avito, EffectiveMobile, SimbirSoft</br>
