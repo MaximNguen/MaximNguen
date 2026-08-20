@@ -1,6 +1,7 @@
 <h1 align="center">Приветствую 👋, меня зовут Максим</h1>
 <h3 align="center">QA-Инженер (SDET) / Backend-Разработчик</h3>
 
+- Мой сайт - https://maximnguen.github.io/
 - Мой стек:
     - QA - **Python, Pytest, Selenium, Playwright, Charles, Docker, Docker Compose, Github Actions, Postman, DevTools, Requests, Pydantic, Allure**
     - Backend - **Python, PostgreSQL, Aiogram, Asyncio, Docker, Redis, Kafka, Postman, Jira, Celery, FastAPI, Pydantic, SQLALcmehy, Alembic**
