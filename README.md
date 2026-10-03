@@ -7,7 +7,8 @@
     - Backend - **Python, PostgreSQL, Aiogram, Asyncio, Docker, Redis, Kafka, Postman, Jira, Celery, FastAPI, Pydantic, SQLALcmehy, Alembic**
  
 - Опыт работы:
-    - **Стажер QA-инженер в ГК Астра (QA Fullstack)**</br>Июль 2026 - по настоящее время
+    - **AI-Ассистент задач с интеграцией в календарь (Команда из 5 человек)**</br>Октябрь 2026 - по настоящее время
+    - **Стажер QA-инженер в ГК Астра (QA Fullstack)**</br>Июль 2026 - Октябрь 2026
     - **Система управления задач и отделов у партии (QA Fullstack + Backend Python)**</br>Июнь 2026 - по настоящее время
     - **Пройденный практикум по SDET от SimbirSoft (QA Python)**</br> Апрель 2026
 
