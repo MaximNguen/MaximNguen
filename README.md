@@ -21,7 +21,7 @@ QA-инженер (SDET). Пишу автотесты на **Python**, **TypeScr
 - Автотесты: **Playwright (Python + TypeScript), Pytest, Selenium, Allure**
 - **Go**: пишу автотесты и разбираюсь в языке
 - Понимаю бэкенд: **FastAPI, PostgreSQL, Redis, Kafka, Celery** — проверяю не только по чек-листу, но и по коду
-- Процессы: **Jira, Confluence, Bitbucket, GitHub Actions**
+- Процессы: **Jira, Confluence, Bitbucket, GitLab, GitLab CI/CD, GitHub Actions**
 - Портфолио: **[maximnguen.github.io](https://maximnguen.github.io/)**
 
 ---
@@ -51,6 +51,8 @@ QA-инженер (SDET). Пишу автотесты на **Python**, **TypeScr
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
